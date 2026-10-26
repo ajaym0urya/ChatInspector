@@ -1,1 +1,3 @@
 # ChatInspector
+
+ChatInspector is an open-source, AI-powered browser extension that helps users understand group conversations without reading every message. Built with React, TypeScript, Chrome Extension Manifest V3, and Google Gemma through Ollama, it summarizes chats, prioritizes important messages, identifies unanswered questions, extracts tasks and deadlines, tracks decisions, and suggests replies. With a privacy-first, local-processing approach, optional integrations, and support for messaging platforms through modular adapters, GroupChat AI makes conversations easier to manage while keeping users in control of their data and replies.
